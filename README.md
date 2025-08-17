@@ -9,9 +9,9 @@ Not Diabetic | Prediabetic | Diabetic
 
 ## 📸 Screenshots
 
-![App Screenshot](screenshot_app.png)
 
----
+
+
 
 ## Tech Stack
 
@@ -24,15 +24,7 @@ Not Diabetic | Prediabetic | Diabetic
 
 ---
 
-## How to Run Locally
 
-```bash
-git clone https://github.com/MohamedHamed5/diabetes_prediction_project.git
-cd diabetes_prediction_project
-pip install -r requirements.txt
-streamlit run code/app.py
-```
----
 
 ## Disclaimer
 
