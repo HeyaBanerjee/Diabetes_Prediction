@@ -41,16 +41,7 @@ It is **not a replacement for clinical diagnosis**. Please consult a healthcare 
 
 ---
 
-## Project Information
 
-This project was built as part of the **NTI Machine Learning Track**  
-Supervised by: **Ahmed Mohamed** & **Mahmoud Hefny**
 
-### Team Members:
-- Mohamed Hamed  
-- Ahmed Elawady 
-- Mariam Mohey  
-- Felopater Magdy  
-- Momen Elenany  
-- Mohamed Mostafa
+
 
